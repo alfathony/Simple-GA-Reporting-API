@@ -1,4 +1,4 @@
-# Simple-GA-Reporting-API
+# Simple Google Analytics Reporting API
 Simple Google Analytics Reporting Service from Analytics Reporting API v4 using PHP
 
 After clone, Run
